@@ -12,4 +12,4 @@ Initially this was a script I wrote where I created my own data structure of a n
 
 That script still exists. However, I converted this script to a notebook with more information (and plans for more analysis/visualization).
 
-When writing the ipynb I decided it would be best to use pandas to structure the data instead of my own data type so the analysis within the ipynb is done with pandas and is more updated.
+When writing the ipynb I decided it would be best to use pandas to structure the data instead of my own data type so the analysis within the ipynb is done using pandas and is more updated.
