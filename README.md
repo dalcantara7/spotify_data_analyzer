@@ -1,15 +1,15 @@
 # spotify_data_analyzer
 A project which takes Spotify listening data and creates visualizations of the data. 
 
-Initially this was a script I wrote where I created my own data structure of a nested dictionary ordered by month and then artists within those months i.e.
+I made this project to get some practice using the tools I learned in my Data Science Cetification.
 
-{ month : 
-  { artist : playTime, ..., artist : playTime }
-  , ..., 
-  finalMonth : 
-  { artist : playTime, ... } 
-}
+This project contains a script which will run the artist per month analysis and generate the month by month visualizations. 
 
-That script still exists. However, I converted this script to a notebook with more information (and plans for more analysis/visualization).
+The libraries I used are listed in the __requirements.txt__ file.
 
-When writing the ipynb I decided it would be best to use pandas to structure the data instead of my own data type so the analysis within the ipynb is done using pandas and is more updated.
+Running the script is as simple as running this command 
+``` 
+python3 PATH_TO_SCRIPT PATH_TO_SPOTIFY_DATA
+``` 
+
+The notebooks contained within this directory contain more information on my thought and development process as well as some insights I generated into my personal data.
