@@ -20,6 +20,7 @@ The features of Carly's music that were particularly different from my other mus
 I also created a visual representation of the music in the form of Radar/Spider charts to illustrate the hunch that it is the combination of features that I like more than just the one feature individually.
 
 Here they are:
+ 
 ![Carly Rae Jepsen Song Chart](https://github.com/dalcantara7/spotify_data_analyzer/blob/master/Images/crj.png)
 ![Non-Carly Rae Jepsen Song Chart](https://github.com/dalcantara7/spotify_data_analyzer/blob/master/Images/non-crj.png)
 ![Least Listened Non-Carly Rae Jepsen Song Chart](https://github.com/dalcantara7/spotify_data_analyzer/blob/master/Images/least%20non-crj.png)
