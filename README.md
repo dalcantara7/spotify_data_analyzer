@@ -1,4 +1,4 @@
-# spotify_data_analyzer
+# Spotify Data Analyzer
 A project which takes Spotify listening data and creates visualizations of the data. 
 
 I made this project to get some practice using the tools I learned in my Data Science Cetification.
@@ -20,9 +20,9 @@ The features of Carly's music that were particularly different from my other mus
 I also created a visual representation of the music in the form of Radar/Spider charts to illustrate the hunch that it is the combination of features that I like more than just the one feature individually.
 
 Here they are:
-![Carly Rae Jepsen Song Chart]()
-![Non-Carly Rae Jepsen Song Chart]()
-![Least Listened Non-Carly Rae Jepsen Song Chart]()
+![Carly Rae Jepsen Song Chart](https://github.com/dalcantara7/spotify_data_analyzer/blob/master/Images/crj.png)
+![Non-Carly Rae Jepsen Song Chart](https://github.com/dalcantara7/spotify_data_analyzer/blob/master/Images/non-crj.png)
+![Least Listened Non-Carly Rae Jepsen Song Chart](https://github.com/dalcantara7/spotify_data_analyzer/blob/master/Images/least%20non-crj.png)
 
 Upon examining these plots, what do we learn?
 
@@ -36,7 +36,7 @@ Upon examining these plots, what do we learn?
 This project contains a script which will run the artist per month analysis and generate the month by month visualizations. 
 
 Example of top artist from every month:
-![top artist every month](https://github.com/dalcantara7/spotify_data_analyzer/blob/master/Top%20Spotify%20Artists%20of%20Each%20Month.png)
+![top artist every month](https://github.com/dalcantara7/spotify_data_analyzer/blob/master/Images/Top%20Spotify%20Artists%20of%20Each%20Month.png)
 
 The libraries I used are listed in the __requirements.txt__ file.
 
