@@ -17,7 +17,7 @@ The features of Carly's music that were particularly different from my other mus
 * her songs are more danceable
 * her songs are more often in a major key
 
-I also created a visual representation of the music in the form of Radar/Spider charts to illustrate the hunch that it is the combination of features that I like more than just the one feature individually.
+I also created a visual representation of the music in the form of Radar/Spider charts to illustrate the hunch that it is the combination of features that I like more than just the one feature individually. These plots are supposed to be displayed at the end of the analysis_with_api_data.ipynb, but Plotly doesn't play well with GitHub, so below is the only visual.
 
 Here they are:
  
